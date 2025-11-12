@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">WIFI information tool</string>
+    <string name="scan_network">Scan Network</string>
+    <string name="wifi_handler">ConneXplore</string>
+    <string name="wifi_list">WIFI List</string>
+    <string name="communications">Comunicări</string>
+    <string name="scan">Scan</string>
+    <string name="back">Back</string>
+    <string name="there_are_no_wi_fi_network_connections_available">There are no Wi-Fi network connections available.</string>
+    <string name="wi_fi_name">Wi-Fi Name</string>
+    <string name="signal_strength">Signal Strength</string>
+    <string name="security_wpa2">Security: WPA2</string>
+    <string name="ip_address_192_168_1_1">IP Address: 192.168.1.1</string>
+    <string name="mac_address_00_11_22_33_44_55">MAC Address: 00:11:22:33:44:55</string>
+    <string name="ssid">SSID: -</string>
+    <string name="security">Security: -</string>
+    <string name="ip_address">IP Address: -</string>
+    <string name="mac_address">MAC Address: -</string>
+    <string name="view_current_wi_fi_details">Detalii WIFI rețea actuală</string>
+    <string name="connected_devices">Connected Devices:</string>
+    <string name="fetch_weather">Fetch Weather</string>
+    <string name="get_weather">meteo în realTime!</string>
+    <string name="internet_speed">Viteză internet</string>
+    <string name="internet_speed_test">Testare viteză internet</string>
+    <string name="test_speed">Test</string>
+    <string name="download_speed_mbps">Viteză download: - Mbps</string>
+    <string name="back_button_description">Go back</string>
+    <string name="device_list_description">List of Wi-Fi networks</string>
+    <string name="scan_button_description">Scan for Wi-Fi networks</string>
+    <string name="contact_admin">Contactează admin-ul aplicației:</string>
+    <string name="instagram_icon_description">Instagram</string>
+    <string name="frequency">frequency</string>
+    <string name="channel">channel</string>
+    <string name="band">Band</string>
+</resources>

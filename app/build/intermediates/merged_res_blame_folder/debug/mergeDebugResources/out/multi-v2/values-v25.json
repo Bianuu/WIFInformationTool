@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.wifiinformationtool.app-mergeDebugResources-34:/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\fabi1\\.gradle\\caches\\8.11.1\\transforms\\5d1e093ab45387b7e29392e3cbd59a34\\transformed\\appcompat-1.6.1\\res\\values-v25\\values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}

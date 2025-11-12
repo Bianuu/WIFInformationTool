@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_background_2025"
+    android:padding="24dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/ssidTextView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/info_item_background_2025"
+            android:gravity="center_vertical"
+            android:paddingVertical="16dp"
+            android:paddingStart="20dp"
+            android:text="@string/ssid"
+            android:textColor="@color/info_text_color_2025"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/ipAddressTextView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/info_item_background_2025"
+            android:gravity="center_vertical"
+            android:paddingVertical="16dp"
+            android:paddingStart="20dp"
+            android:text="@string/ip_address"
+            android:textColor="@color/info_text_color_2025"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/macAddressTextView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/info_item_background_2025"
+            android:gravity="center_vertical"
+            android:paddingVertical="16dp"
+            android:paddingStart="20dp"
+            android:text="@string/mac_address"
+            android:textColor="@color/info_text_color_2025"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/signalStrengthTextView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/info_item_background_2025"
+            android:gravity="center_vertical"
+            android:paddingVertical="16dp"
+            android:paddingStart="20dp"
+            android:text="@string/signal_strength"
+            android:textColor="@color/info_text_color_2025"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/securityTypeTextView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/info_item_background_2025"
+            android:gravity="center_vertical"
+            android:paddingVertical="16dp"
+            android:paddingStart="20dp"
+            android:text="@string/security"
+            android:textColor="@color/info_text_color_2025"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/frequencyTextView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/info_item_background_2025"
+            android:gravity="center_vertical"
+            android:paddingVertical="16dp"
+            android:paddingStart="20dp"
+            android:text="@string/frequency"
+            android:textColor="@color/info_text_color_2025"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/channelTextView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="24dp"
+            android:background="@drawable/info_item_background_2025"
+            android:gravity="center_vertical"
+            android:paddingVertical="16dp"
+            android:paddingStart="20dp"
+            android:text="@string/channel"
+            android:textColor="@color/info_text_color_2025"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/connectedDevicesTitle2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ssidTextView2"
+        android:layout_marginTop="32dp"
+        android:text=""
+        android:textColor="@color/header_text_colorr_2025"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        tools:ignore="NotSibling" />
+
+    <ListView
+        android:id="@+id/connectedDevicesListView2"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_below="@+id/connectedDevicesTitle2"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="12dp"
+        android:layout_weight="1"
+        android:divider="@drawable/list_divider_2025"
+        android:dividerHeight="1dp"
+        tools:ignore="ObsoleteLayoutParam" />
+
+</RelativeLayout>

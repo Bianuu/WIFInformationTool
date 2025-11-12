@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_500">#5A045D</color>
+    <color name="header_text_color_2025">#FFFFFF</color>
+    <color name="button_text_color_2025">#FFFFFF</color>
+    <color name="wifi_name_text_color_2025">#212121</color>
+    <color name="wifi_signal_text_color_2025">#757575</color>
+    <color name="wifi_signal_icon_color_2025">#4CAF50</color>
+    <color name="wifi_detail_text_color_2025">#616161</color>
+    <color name="info_text_color_2025">#37474F</color>
+    <color name="header_text_colorr_2025">#2196F3</color>
+    <color name="header_text_color_speedtest_2025">#00BCD4</color>
+    <color name="button_text_color_light_2025">#FFFFFF</color>
+    <color name="text_primary_dark_2025">#212121</color>
+    <color name="accent_color_2025">#FF9800</color>
+    <color name="accentColor">#00BCD4</color>
+    <color name="accentColorDark">#008394</color>
+    <color name="header_text_color_2025_v2">#2196F3</color>
+    <color name="button_text_color_primary_2025">#FFFFFF</color>
+    <color name="text_primary_2025">#FF0000</color>
+    <color name="input_icon_color_2025">#757575</color>
+    <color name="gradient_start">#6200EA</color>
+    <color name="gradient_middle">#7C4DFF</color>
+    <color name="gradient_end">#B388FF</color>
+    <color name="progress_tint">#FF4081</color> <!-- Roz vibrant -->
+    <color name="card_background">#FFFFFF</color> <!-- Alb -->
+
+
+</resources>

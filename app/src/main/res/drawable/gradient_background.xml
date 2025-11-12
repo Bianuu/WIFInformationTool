@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Fundal cu gradient -->
+    <item>
+        <shape>
+            <gradient
+                android:centerColor="#8A2BE2"
+                android:centerX="50%"
+                android:centerY="50%"
+                android:endColor="#4B0082"
+                android:gradientRadius="250dp"
+                android:startColor="#FF00FF"
+                android:type="radial" />
+            <corners android:radius="30dp" />
+            <stroke
+                android:width="4dp"
+                android:color="#FFFFFF" />
+        </shape>
+    </item>
+
+    <!-- Imagine de fundal -->
+    <item
+        android:bottom="0dp"
+        android:left="0dp"
+        android:right="0dp"
+        android:top="0dp">
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/gradientbackground"
+            android:tileMode="disabled" />
+    </item>
+
+    <!-- Strat de umbră -->
+    <item>
+        <shape>
+            <solid android:color="#55000000" />
+            <corners android:radius="30dp" />
+        </shape>
+    </item>
+
+</layer-list>

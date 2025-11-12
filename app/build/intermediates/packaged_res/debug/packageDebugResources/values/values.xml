@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accentColor">#00BCD4</color>
+    <color name="accentColorDark">#008394</color>
+    <color name="accent_color_2025">#FF9800</color>
+    <color name="black">#FF000000</color>
+    <color name="button_text_color_2025">#FFFFFF</color>
+    <color name="button_text_color_light_2025">#FFFFFF</color>
+    <color name="button_text_color_primary_2025">#FFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="gradient_end">#B388FF</color>
+    <color name="gradient_middle">#7C4DFF</color>
+    <color name="gradient_start">#6200EA</color>
+    <color name="header_text_color_2025">#FFFFFF</color>
+    <color name="header_text_color_2025_v2">#2196F3</color>
+    <color name="header_text_color_speedtest_2025">#00BCD4</color>
+    <color name="header_text_colorr_2025">#2196F3</color>
+    <color name="info_text_color_2025">#37474F</color>
+    <color name="input_icon_color_2025">#757575</color>
+    <color name="progress_tint">#FF4081</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#5A045D</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="text_primary_2025">#FF0000</color>
+    <color name="text_primary_dark_2025">#212121</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="wifi_detail_text_color_2025">#616161</color>
+    <color name="wifi_name_text_color_2025">#212121</color>
+    <color name="wifi_signal_icon_color_2025">#4CAF50</color>
+    <color name="wifi_signal_text_color_2025">#757575</color>
+    <string name="app_name">WIFI information tool</string>
+    <string name="back">Back</string>
+    <string name="back_button_description">Go back</string>
+    <string name="band">Band</string>
+    <string name="channel">channel</string>
+    <string name="communications">Comunicări</string>
+    <string name="connected_devices">Connected Devices:</string>
+    <string name="contact_admin">Contactează admin-ul aplicației:</string>
+    <string name="device_list_description">List of Wi-Fi networks</string>
+    <string name="download_speed_mbps">Viteză download: - Mbps</string>
+    <string name="fetch_weather">Fetch Weather</string>
+    <string name="frequency">frequency</string>
+    <string name="get_weather">meteo în realTime!</string>
+    <string name="instagram_icon_description">Instagram</string>
+    <string name="internet_speed">Viteză internet</string>
+    <string name="internet_speed_test">Testare viteză internet</string>
+    <string name="ip_address">IP Address: -</string>
+    <string name="ip_address_192_168_1_1">IP Address: 192.168.1.1</string>
+    <string name="mac_address">MAC Address: -</string>
+    <string name="mac_address_00_11_22_33_44_55">MAC Address: 00:11:22:33:44:55</string>
+    <string name="scan">Scan</string>
+    <string name="scan_button_description">Scan for Wi-Fi networks</string>
+    <string name="scan_network">Scan Network</string>
+    <string name="security">Security: -</string>
+    <string name="security_wpa2">Security: WPA2</string>
+    <string name="signal_strength">Signal Strength</string>
+    <string name="ssid">SSID: -</string>
+    <string name="test_speed">Test</string>
+    <string name="there_are_no_wi_fi_network_connections_available">There are no Wi-Fi network connections available.</string>
+    <string name="view_current_wi_fi_details">Detalii WIFI rețea actuală</string>
+    <string name="wi_fi_name">Wi-Fi Name</string>
+    <string name="wifi_handler">ConneXplore</string>
+    <string name="wifi_list">WIFI List</string>
+    <style name="Base.Theme.WIFIInformationTool" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.WIFIInformationTool" parent="Base.Theme.WIFIInformationTool"/>
+</resources>

@@ -1,0 +1,39 @@
+com.example.wifiinformationtool.app-core-ktx-1.13.0-0 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\016010fcf8421ecc2ac1282417c908dc\transformed\core-ktx-1.13.0\res
+com.example.wifiinformationtool.app-lifecycle-process-2.6.2-1 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\0da3770ee1ce81ae096dd27fcf27fa88\transformed\lifecycle-process-2.6.2\res
+com.example.wifiinformationtool.app-lifecycle-livedata-2.6.2-2 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\0eb94cb295276a38e1e88c0830858e64\transformed\lifecycle-livedata-2.6.2\res
+com.example.wifiinformationtool.app-browser-1.8.0-3 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\1651d2e4c1005d58cb096f871a0f01b5\transformed\browser-1.8.0\res
+com.example.wifiinformationtool.app-fragment-1.3.6-4 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\1c102651113ca3b27e27d8bbeb9ca22f\transformed\fragment-1.3.6\res
+com.example.wifiinformationtool.app-savedstate-1.2.1-5 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\1fa57220e7fa1e81491aa8e0d8aa4e75\transformed\savedstate-1.2.1\res
+com.example.wifiinformationtool.app-material-1.12.0-6 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\3201f3b0df3fdb69b55f0a1ca6f9c507\transformed\material-1.12.0\res
+com.example.wifiinformationtool.app-sqlite-2.4.0-7 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\3b359a920562679465134430abeed1d6\transformed\sqlite-2.4.0\res
+com.example.wifiinformationtool.app-sqlite-framework-2.4.0-8 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\3f11bd89d50bee05268be49ac36f028d\transformed\sqlite-framework-2.4.0\res
+com.example.wifiinformationtool.app-customview-poolingcontainer-1.0.0-9 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\3f57ca823d7800ac280cd96e2303d5db\transformed\customview-poolingcontainer-1.0.0\res
+com.example.wifiinformationtool.app-cardview-1.0.0-10 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\54157eeb2c74cb39886d0ff68f5ef115\transformed\cardview-1.0.0\res
+com.example.wifiinformationtool.app-lifecycle-runtime-2.6.2-11 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\549e0546741ab3c5ec413845d5589bbc\transformed\lifecycle-runtime-2.6.2\res
+com.example.wifiinformationtool.app-viewpager2-1.1.0-beta02-12 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\57efc2c9de627d822f5fd79a6e7f86a1\transformed\viewpager2-1.1.0-beta02\res
+com.example.wifiinformationtool.app-appcompat-1.6.1-13 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\5d1e093ab45387b7e29392e3cbd59a34\transformed\appcompat-1.6.1\res
+com.example.wifiinformationtool.app-appcompat-resources-1.6.1-14 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\5d234cef4b293b87f1dc67cca70d7299\transformed\appcompat-resources-1.6.1\res
+com.example.wifiinformationtool.app-lifecycle-viewmodel-2.6.2-15 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\61aea1a92cd992e583729e929c82491e\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.wifiinformationtool.app-lifecycle-livedata-core-2.6.2-16 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\6944316785e351fc3017386d1875c935\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.wifiinformationtool.app-room-runtime-2.6.1-17 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\72a8a7e23d9ee8e239f3f71dfba68d7a\transformed\room-runtime-2.6.1\res
+com.example.wifiinformationtool.app-core-1.13.0-18 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\75033cae108d4e23b57d3550695824f8\transformed\core-1.13.0\res
+com.example.wifiinformationtool.app-core-runtime-2.2.0-19 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\7b76f2245d7b4cad6f8a0f7f28f48759\transformed\core-runtime-2.2.0\res
+com.example.wifiinformationtool.app-coordinatorlayout-1.1.0-20 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\7d767ed00ed3fed2293757e222a71e8d\transformed\coordinatorlayout-1.1.0\res
+com.example.wifiinformationtool.app-recyclerview-1.4.0-21 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\904a9e13a98ce71088e736a3052ba04d\transformed\recyclerview-1.4.0\res
+com.example.wifiinformationtool.app-emoji2-1.2.0-22 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\962e9a3cac058c4bd82bfd7640b0f740\transformed\emoji2-1.2.0\res
+com.example.wifiinformationtool.app-drawerlayout-1.1.1-23 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\b9b6f58669d735a1422e7b04ea9f53ba\transformed\drawerlayout-1.1.1\res
+com.example.wifiinformationtool.app-profileinstaller-1.3.1-24 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\c11c426eb68e26ef635619466ecc2261\transformed\profileinstaller-1.3.1\res
+com.example.wifiinformationtool.app-emoji2-views-helper-1.2.0-25 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\c9be28c352f559c8f323da18e12e4f5a\transformed\emoji2-views-helper-1.2.0\res
+com.example.wifiinformationtool.app-annotation-experimental-1.4.0-26 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\cb8f142d355a07f73ef87bf0b867a188\transformed\annotation-experimental-1.4.0\res
+com.example.wifiinformationtool.app-activity-1.8.0-27 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\cf6c020622955323e3905e970c1471a1\transformed\activity-1.8.0\res
+com.example.wifiinformationtool.app-lifecycle-viewmodel-savedstate-2.6.2-28 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\d2d781ae36c99f101d10f066148441cf\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.wifiinformationtool.app-startup-runtime-1.1.1-29 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\d8700335b837021ea450e1c3610657d5\transformed\startup-runtime-1.1.1\res
+com.example.wifiinformationtool.app-constraintlayout-2.1.4-30 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\f165849d573a1a7b61a8c45c4eeaba40\transformed\constraintlayout-2.1.4\res
+com.example.wifiinformationtool.app-transition-1.5.0-31 C:\Users\fabi1\.gradle\caches\8.11.1\transforms\face451fba98e395dd9ef6a973e38670\transformed\transition-1.5.0\res
+com.example.wifiinformationtool.app-pngs-32 C:\Users\fabi1\Desktop\twdm proiect\WIFIinfo\wifi-information-app\app\build\generated\res\pngs\debug
+com.example.wifiinformationtool.app-resValues-33 C:\Users\fabi1\Desktop\twdm proiect\WIFIinfo\wifi-information-app\app\build\generated\res\resValues\debug
+com.example.wifiinformationtool.app-packageDebugResources-34 C:\Users\fabi1\Desktop\twdm proiect\WIFIinfo\wifi-information-app\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.wifiinformationtool.app-packageDebugResources-35 C:\Users\fabi1\Desktop\twdm proiect\WIFIinfo\wifi-information-app\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.wifiinformationtool.app-debug-36 C:\Users\fabi1\Desktop\twdm proiect\WIFIinfo\wifi-information-app\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.wifiinformationtool.app-debug-37 C:\Users\fabi1\Desktop\twdm proiect\WIFIinfo\wifi-information-app\app\src\debug\res
+com.example.wifiinformationtool.app-main-38 C:\Users\fabi1\Desktop\twdm proiect\WIFIinfo\wifi-information-app\app\src\main\res

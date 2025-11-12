@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_background">
+
+    <!-- Header Modern cu Animație -->
+    <TextView
+        android:id="@+id/headerText"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:alpha="1"
+        android:animateLayoutChanges="true"
+        android:background="@drawable/animated_gradient"
+        android:elevation="6dp"
+        android:fontFamily="sans-serif-black"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="@string/wifi_handler"
+        android:textColor="#FFFFFF"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        android:translationY="0dp"
+        android:visibility="visible" />
+
+    <LinearLayout
+        android:id="@+id/buttonsLayout"
+        android:layout_width="match_parent"
+        android:layout_height="435dp"
+        android:layout_below="@id/headerText"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="94dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/viewCurrentWifiDetailsButton"
+            android:layout_width="229dp"
+            android:layout_height="86dp"
+            android:layout_marginBottom="20dp"
+            android:backgroundTint="#7C4DFF"
+            android:elevation="4dp"
+            android:fontFamily="sans-serif-medium"
+            android:stateListAnimator="@null"
+            android:text="@string/view_current_wi_fi_details"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/wifiInfoButton"
+            android:layout_width="229dp"
+            android:layout_height="86dp"
+            android:layout_marginBottom="20dp"
+            android:backgroundTint="#7C4DFF"
+            android:elevation="4dp"
+            android:fontFamily="sans-serif-medium"
+            android:stateListAnimator="@null"
+            android:text="@string/wifi_list"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/communicationsButton"
+            android:layout_width="235dp"
+            android:layout_height="84dp"
+            android:layout_marginBottom="20dp"
+            android:backgroundTint="#7C4DFF"
+            android:elevation="4dp"
+            android:fontFamily="sans-serif-medium"
+            android:stateListAnimator="@null"
+            android:text="@string/communications"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/btnSpeedTest"
+            android:layout_width="235dp"
+            android:layout_height="84dp"
+            android:backgroundTint="#7C4DFF"
+            android:elevation="4dp"
+            android:fontFamily="sans-serif-medium"
+            android:stateListAnimator="@null"
+            android:text="@string/internet_speed"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <!-- Secțiunea de contact admin cu iconița Instagram -->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:background="#22000000"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="8dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="10dp"
+            android:text="@string/contact_admin"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@+id/instagramIcon"
+            android:layout_width="68dp"
+            android:layout_height="68dp"
+            android:clickable="true"
+            android:contentDescription="@string/instagram_icon_description"
+            android:focusable="true"
+            android:padding="10dp"
+            android:src="@drawable/instagram" />
+    </LinearLayout>
+</RelativeLayout>
